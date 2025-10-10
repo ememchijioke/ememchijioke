@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Emem Chijioke  
 
-<!--
-**ememchijioke/ememchijioke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently studying for a MSc in Artificial Intelligence & Cybersecurity and an M.Eng. in Information communication engineering Autonomous Systems & Robotics at the [University of Klagenfurt (AAU)](https://www.aau.at).  
 
-Here are some ideas to get you started:
+Current Research   
+- Multi-UAV coordination using MAPPO with GRU-based agents  
+- Reinforcement learning for distributed control  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect  
+<p align="left">
+  <a href="https://ememchijioke.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ememchijioke" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ememchijioke" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
