@@ -1,6 +1,6 @@
 Hi, I'm Emem Chijioke  
 
-I’m currently studying for a MSc in Artificial Intelligence & Cybersecurity and an M.Eng. in Information communication engineering Autonomous Systems & Robotics at the [University of Klagenfurt (AAU)](https://www.aau.at).  
+I'm currently studying for an MSc in Artificial Intelligence(AI) & Cybersecurity and an M.Eng. in Information and Communication Engineering with a specialization in Autonomous Systems & Robotics at the at the [University of Klagenfurt (AAU)](https://www.aau.at).  
 
 Current Research   
 - Multi-UAV coordination using MAPPO with GRU-based agents  
